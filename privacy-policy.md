@@ -1,8 +1,8 @@
-# Privacy Policy — Epic Templates for Jira
+# Privacy Policy — Issue Templates
 
 **Effective date:** 11 June 2026
 
-Epic Templates for Jira ("the app") is developed and operated by David Lee
+Issue Templates ("the app") is developed and operated by David Lee
 ("I", "me"), an independent developer. This policy describes what data the
 app handles and where it lives. The short version: **your data never leaves
 Atlassian's infrastructure, and I never see it.**
