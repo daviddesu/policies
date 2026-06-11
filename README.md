@@ -2,4 +2,4 @@
 
 Public policy documents for apps by David Lee.
 
-- [Privacy Policy — Issue Templates](privacy-policy.md)
+- [Privacy Policy — Snapshot Templates for Jira](privacy-policy.md)

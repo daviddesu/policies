@@ -1,8 +1,8 @@
-# Privacy Policy — Issue Templates
+# Privacy Policy — Snapshot Templates for Jira
 
 **Effective date:** 11 June 2026
 
-Issue Templates ("the app") is developed and operated by David Lee
+Snapshot Templates for Jira ("the app") is developed and operated by David Lee
 ("I", "me"), an independent developer. This policy describes what data the
 app handles and where it lives. The short version: **your data never leaves
 Atlassian's infrastructure, and I never see it.**
