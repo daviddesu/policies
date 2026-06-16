@@ -1,0 +1,13 @@
+title: Snapshot Templates for Jira
+description: User guide, privacy policy, and security policy.
+theme: jekyll-theme-cayman
+
+exclude:
+  - .DS_Store
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

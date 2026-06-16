@@ -1,5 +1,13 @@
-# Policies
+# Snapshot Templates for Jira — Public Docs
 
-Public policy documents for apps by David Lee.
+Public-facing documentation for the **Snapshot Templates for Jira** Atlassian
+Forge app, served via GitHub Pages:
 
-- [Privacy Policy — Snapshot Templates for Jira](privacy-policy.md)
+- [User Guide](./user-guide.md)
+- [Privacy Policy](./privacy-policy.md)
+- [Security Policy](./security-policy.md)
+
+The site is built from this repo with Jekyll and deployed by the
+`Deploy to GitHub Pages` workflow on every push to `main`.
+
+Support: **support@davidleetech.uk**
